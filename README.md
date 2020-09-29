@@ -44,9 +44,9 @@ and [github](https://github.com/kunal266)
 
 ### BITCOIN:
 #### 3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu
-
+![3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu](https://github.com/kunal266/kunal266/blob/master/BITCOIN_DEPOSIT.png)
 
 ### BAT: 
 #### 0x59f8fec8bc185b44bc119e5507c8d0b9ef784874
-
+![0x59f8fec8bc185b44bc119e5507c8d0b9ef784874](https://github.com/kunal266/kunal266/blob/master/BAT_DEPOSIT.png)
 
