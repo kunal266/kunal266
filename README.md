@@ -23,16 +23,16 @@ organizational works in college related to clubs, fests and workshops and helped
  in building many communities from scratch. Apart from this,I am a keen observer 
 and always inquisitive to learn new things. 
 
-One Line That describes me
+#### One Line That describes me ?
 An introvert whose life and lcode runs on coffee
 
-My other Interest
+#### My other Interest
 I have a knack for dancing, I usually participates in various Dancing events in colleges
 and contributing to Open-Source codes(btw i am a linux user (^_^) )
 
-How to Reach me ?
-I am usually active on social media like twitter, Instagram, Facebook
- and github
+#### How to Reach me ?
+I am usually active on social media like [twitter](https://twitter.com/KunalMakwana19), [Instagram](https://www.instagram.com/daily.coders/), [Facebook](https://www.facebook.com/kunalmak.2688)
+and [github](https://github.com/kunal266)
 (it is a social media don't @ me) 
 
 
