@@ -1,9 +1,9 @@
 ## Hello I am kunal Makwana
-- I describe myself as a fast learner and understanding is on par with
-the  requirements of today's standard
-- I am experienced in python, web scrapping, automation, bash scripting ,c++,c
+```- I describe myself as a fast learner and understanding is on par with
+the  requirements of today's standard```
+```- I am experienced in python, web scrapping, automation, bash scripting ,c++,c
 javascript,NodeJS,react ,react-Native, tensorflow, machine learning,
-data analysis and visualization
+data analysis and visualization```
 - I have pretty good grasp in Data Structures and Algorithms as well
 What do I do
 - Along with it, I have strong media and communication professional with a 
