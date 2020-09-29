@@ -1,4 +1,4 @@
-##Hello I am kunal Makwana
+## Hello I am kunal Makwana
 i describe myself as a fast learner and understanding is on par with
 the  requirements of today's standard
 i am experienced in python, web scrapping, automation, bash scripting ,c++,c
@@ -37,16 +37,16 @@ I am usually active on social media like twitter, Instagram, Facebook
 
 
 Donate if you like my work (^_^)
-##XRP:
-##rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr
-##Destination tage: 304500814
+## XRP:
+## rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr
+## Destination tage: 304500814
 
 
-##BITCOIN:
-##3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu
+## BITCOIN:
+## 3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu
 
 
-##BAT: 
-##0x59f8fec8bc185b44bc119e5507c8d0b9ef784874
+## BAT: 
+## 0x59f8fec8bc185b44bc119e5507c8d0b9ef784874
 
 
