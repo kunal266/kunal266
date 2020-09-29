@@ -9,20 +9,20 @@ What do I do
 - Along with it, I have strong media and communication professional with a 
 Bachelor of Technology focused in Computer Science and engineering from
 Vellore Institute of Technology,Chennai
-
- 
+    
+'''
 I'm a fast learner looking for interesting career opportunities in Data Science  
 and Web as a full-stack developer. I am awaiting a job with a decent salary 
 and more importantly, a chance to build up my career and skills. I am looking
  for growth. Currently, I am looking for internships and research projects in 
 the field of Computer science and engineering.
-
-
+'''
+'''
 My activities are much beyond my stream of education. I am involved in a lot of 
 organizational works in college related to clubs, fests and workshops and helped
  in building many communities from scratch. Apart from this,I am a keen observer 
 and always inquisitive to learn new things. 
-
+'''
 #### One Line That describes me ?
 An introvert whose life and lcode runs on coffee
 
