@@ -1,12 +1,12 @@
 ## Hello I am kunal Makwana
-i describe myself as a fast learner and understanding is on par with
+- I describe myself as a fast learner and understanding is on par with
 the  requirements of today's standard
-i am experienced in python, web scrapping, automation, bash scripting ,c++,c
+- I am experienced in python, web scrapping, automation, bash scripting ,c++,c
 javascript,NodeJS,react ,react-Native, tensorflow, machine learning,
 data analysis and visualization
-i have pretty good grasp in Data Structures and Algorithms as well
+- I have pretty good grasp in Data Structures and Algorithms as well
 What do I do
-Along with it, I have strong media and communication professional with a 
+- Along with it, I have strong media and communication professional with a 
 Bachelor of Technology focused in Computer Science and engineering from
 Vellore Institute of Technology,Chennai
 
@@ -36,7 +36,7 @@ I am usually active on social media like twitter, Instagram, Facebook
 (it is a social media don't @ me) 
 
 
-Donate if you like my work (^_^)
+#### Donate if you like my work (^_^)
 ### XRP:
 #### rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr
 #### Destination tage: 304500814
