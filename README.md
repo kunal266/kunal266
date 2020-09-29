@@ -40,7 +40,7 @@ I am usually active on social media like twitter, Instagram, Facebook
 ### XRP:
 #### rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr
 #### Destination tage: 304500814
-![]https://github.com/kunal266/kunal266/XRP_DEPOSIT.png
+![]https://github.com/kunal266/kunal266/blob/master/XRP_DEPOSIT.png?raw=true
 
 ### BITCOIN:
 #### 3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu
