@@ -16,7 +16,8 @@ and Web as a full-stack developer. I am awaiting a job with a decent salary
 and more importantly, a chance to build up my career and skills. 
 I am looking for growth.,
  ```
-``` Currently I am looking for internships and research projects in 
+``` 
+Currently I am looking for internships and research projects in 
 the field of Computer science and engineering.
 ```
 ```
