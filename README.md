@@ -40,6 +40,15 @@ and [github](https://github.com/kunal266)
 (it is a social media don't @ me) 
 
 
+<p align="center">
+  <a href="https://sourcerer.io/kunal266">
+    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=kunal266&show_icons=true&theme=light">
+  </a>
+  <br>
+  <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=kunal266&style=flat-square&color=brightgreen" />
+</p>
+
+
 #### 🙏 Donate if you like my work (^_^)
 
 ### 🟡 BITCOIN:
