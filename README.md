@@ -1,6 +1,6 @@
 ## Hello I am kunal Makwana 👋
-- I describe myself as a fast learner and understanding is on par with
-the  requirements of today's standard
+- Grounded and Solution-Oriented Computer Scientist with experience in wide
+varieties of Computer Related languages, always adapting to the new technology 
 - I am experienced in python, web scrapping, automation, bash scripting ,c++,c
 javascript,NodeJS,react ,react-Native, tensorflow, machine learning,
 data analysis and visualization
