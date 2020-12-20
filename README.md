@@ -49,6 +49,41 @@ and [github](https://github.com/kunal266)
 </p>
 
 
+### Languages 🚀
+
+|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60>|  <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/c++.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/visual-basic.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/html5.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/css.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/r.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Tools 🔥
+|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/arduino.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/netlify.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Trying to get in touch? 📞
+
+<p align="center">
+  <a href="mailto:vijaybalaji2477@gmail.com">
+    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/svijayb/">
+    <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://twitter.com/VijaybalajiS1">
+    <img alt="Twitter" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/twitter.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://www.instagram.com/s.vj._/">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://steamcommunity.com/id/strangelychaotic">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/steam.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+</p>
+
+---
+
 #### 🙏 Donate if you like my work (^_^)
 
 ### 🟡 BITCOIN:
