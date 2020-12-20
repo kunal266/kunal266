@@ -55,13 +55,13 @@ and [github](https://github.com/kunal266)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Tools 🔥
-|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/arduino.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/netlify.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60> |
+|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Trying to get in touch? 📞
 
 <p align="center">
-  <a href="mailto:vijaybalaji2477@gmail.com">
+  <a href="mailto:kunalm039@gmail.com">
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
