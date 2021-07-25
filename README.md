@@ -84,9 +84,8 @@ and [github](https://github.com/kunal266)
 
 ---
 #### RESUME📃
-<p<a href="https://github.com/kunal266/kunal266/raw/master/KUNAL%20RESUME.pdf" rel="noopener noreferrer" target="_blank">
+<p><a href="https://github.com/kunal266/kunal266/raw/master/KUNAL%20RESUME.pdf" rel="noopener noreferrer" target="_blank">
     <img alt="Resume" src="https://github.com/kunal266/kunal266/blob/master/icons8-download-resume-48.png" style="vertical-align:top margin:6px 4px"/>
-    <div>bruhhh</div>
     <div>^ Click here to Download My Resume, Hope you like it ^_^</div>
   </a>
     </p>
