@@ -77,7 +77,12 @@ and [github](https://github.com/kunal266)
     <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 </p>
-
+## RESUME📃
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 ---
 
 #### 🙏 Donate if you like my work (^_^)
