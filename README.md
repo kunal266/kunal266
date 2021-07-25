@@ -65,7 +65,7 @@ and [github](https://github.com/kunal266)
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://bit.ly/3iA5dNt" rel="noopener noreferrer" target="__blank">
+  <a href="https://bit.ly/3iA5dNt" rel="noopener noreferrer" target="_blank">
     <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
