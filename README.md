@@ -52,10 +52,12 @@ and [github](https://github.com/kunal266)
 ### Languages 🚀
 
 |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60>|  <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/c++.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/visual-basic.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/html5.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/css.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/r.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60> |
+
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Tools 🔥
 |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60> |
+
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Trying to get in touch? 📞
@@ -75,12 +77,23 @@ and [github](https://github.com/kunal266)
 
   <a href="https://bit.ly/3kScWJn" rel="noopener noreferrer" target="_blank">
     <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
+      
   </a>
 </p>
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-#### RESUME📃
+
 ---
-![Download Resume](https://github.com/kunal266/kunal266/raw/master/icons8-download-resume-48.png)
+#### RESUME📃
+<p<a href="https://github.com/kunal266/kunal266/raw/master/KUNAL%20RESUME.pdf" rel="noopener noreferrer" target="_blank">
+    <img alt="Resume" src="https://github.com/kunal266/kunal266/blob/master/icons8-download-resume-48.png" style="vertical-align:top margin:6px 4px"/>
+    <div>bruhhh</div>
+    <div>^ Click here to Download My Resume, Hope you like it ^_^</div>
+  </a>
+    </p>
+---
+
+
+
 #### 🙏 Donate if you like my work (^_^)
 
 ### 🟡 BITCOIN:
