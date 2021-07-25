@@ -61,19 +61,19 @@ and [github](https://github.com/kunal266)
 ### Trying to get in touch? 📞
 
 <p align="center">
-  <a href="mailto:kunalm039@gmail.com" target="_blank">
+  <a href="mailto:kunalm039@gmail.com" rel="noopener noreferrer" target="_blank">
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://bit.ly/3iA5dNt" target="_blank">
+  <a href="https://bit.ly/3iA5dNt" rel="noopener noreferrer" target="_blank">
     <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://bit.ly/3x3YtN5" target="_blank">
+  <a href="https://bit.ly/3x3YtN5" rel="noopener noreferrer" target="_blank">
     <img alt="Twitter" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/twitter.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://bit.ly/3kScWJn" target="_blank">
+  <a href="https://bit.ly/3kScWJn" rel="noopener noreferrer" target="_blank">
     <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 </p>
