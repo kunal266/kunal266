@@ -42,7 +42,7 @@ and [github](https://github.com/kunal266)
 
 <p align="center">
   <a href="https://sourcerer.io/kunal266">
-    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=kunal266&show_icons=true&theme=light">
+    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=kunal266&show_icons=true&theme=dark">
   </a>
   <br>
   <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=kunal266&style=flat-square&color=brightgreen" />
@@ -79,13 +79,8 @@ and [github](https://github.com/kunal266)
 </p>
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 #### RESUME📃
-<object data="https://bit.ly/2V8wDlw" type="application/pdf" width="700px" height="700px">
-    <embed src="https://bit.ly/2V8wDlw">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://bit.ly/2V8wDlw">Download PDF</a>.</p>
-    </embed>
-</object>
 ---
-
+![Download Resume](https://github.com/kunal266/kunal266/raw/master/icons8-download-resume-48.png)
 #### 🙏 Donate if you like my work (^_^)
 
 ### 🟡 BITCOIN:
