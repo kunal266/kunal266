@@ -65,20 +65,16 @@ and [github](https://github.com/kunal266)
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/svijayb/">
+  <a href="https://bit.ly/3iA5dNt">
     <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://twitter.com/VijaybalajiS1">
+  <a href="https://bit.ly/3x3YtN5">
     <img alt="Twitter" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/twitter.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://www.instagram.com/s.vj._/">
+  <a href="https://bit.ly/3kScWJn">
     <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
-  </a>
-
-  <a href="https://steamcommunity.com/id/strangelychaotic">
-    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/steam.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 </p>
 
