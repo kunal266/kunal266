@@ -30,18 +30,6 @@ and [github](https://github.com/kunal266)
   <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=kunal266&style=flat-square&color=brightgreen" />
 </p>
 
-
-### Languages 🚀
-
-|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60>|  <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/c++.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/visual-basic.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/html5.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/css.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/r.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60> |
-
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-### Tools 🔥
-|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60> |
-
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
 ### Trying to get in touch? 📞
 
 <p align="center">
@@ -62,7 +50,17 @@ and [github](https://github.com/kunal266)
       
   </a>
 </p>
+### Languages 🚀
+
+|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60>|  <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/c++.svg" width=60> | <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/visual-basic.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/html5.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/css.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/r.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60> |
+
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Tools 🔥
+|<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60> |<img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60> |
+
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
 
 ---
 #### RESUME📃
