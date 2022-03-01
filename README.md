@@ -72,23 +72,3 @@ and [github](https://github.com/kunal266)
   </a>
     </p>
 ---
-
-
-
-#### 🙏 Donate if you like my work (^_^)
-
-### 🟡 BITCOIN:
-#### 3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu
-![3DCmAhX9Wn2tvyo5bKjVD7imHhb6WJciSu](https://github.com/kunal266/kunal266/blob/master/BITCOIN_DEPOSIT.png)
-
-### 🔵 XRP:
-#### rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr
-#### Destination tage: 304500814
-![rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr](https://github.com/kunal266/kunal266/blob/master/XRP_DEPOSIT.png)
-
-
-### 🔴 BAT: 
-#### 0x59f8fec8bc185b44bc119e5507c8d0b9ef784874
-![0x59f8fec8bc185b44bc119e5507c8d0b9ef784874](https://github.com/kunal266/kunal266/blob/master/BAT_DEPOSIT.png)
-
-🙃
