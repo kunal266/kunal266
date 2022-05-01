@@ -4,7 +4,7 @@ Hi 👋 My name is kunal makwana
 Data scientist and web3.0 developer
 -----------------------------------
 
-I have been coding for 3 years. I want to persu career in Data science and analytics, On my way to become a quant and learning time series model for the same. Crypto and blockchain is also one of the field I am working on currently
+I have been coding for 3 years. I want to pursue career in Data science and analytics, On my way to become a quant and learning time series model for the same. Crypto and blockchain is also one of the field I am working on currently
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [kunalm039@gmail.com](mailto:kunalm039@gmail.com)
