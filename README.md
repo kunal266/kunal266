@@ -67,3 +67,4 @@ src="https://img.shields.io/github/followers/kunal266?logo=github&style=for-the-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/supastazz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://app.daily.dev/supastazz"><img src="https://api.daily.dev/devcards/1eca24db80e84972aeafcb50ca12ec5f.png?r=js9" width="400" alt="Kunal Makwana's Dev Card"/></a>
