@@ -8,8 +8,8 @@ I have been coding for 3 years. I want to pursue career in Data science and anal
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [kunalm039@gmail.com](mailto:kunalm039@gmail.com)
-* 🧠  I'm learning RUST language
-* 🤝  I'm open to collaborating on DAO based Blockchain hackathon
+* 🧠  I'm learning Data Analtyics
+* 🤝  I'm open to collaborating for Kaggle Competitions
 * ⚡  My personality is based on michael reeves and ben awad, no in between
 
 <a href="https://www.github.com/kunal266" target="_blank" rel="noreferrer"><img
